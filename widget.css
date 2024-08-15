@@ -1,7 +1,8 @@
-.slick-prev,
-.slick-next {
-  display: none !important;
-  /* Hide default arrows */
+
+.slick-prev:before,
+.slick-next:before {
+  color: #ff5c5c!important;
+  font-size: 30px !important;
 }
 
 .custom-arrow {

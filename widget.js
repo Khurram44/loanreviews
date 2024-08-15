@@ -3,7 +3,7 @@ import Slider from 'react-slick';
 import { Grid, Card, CardContent, Typography, Avatar, CardHeader, Button, Rating } from '@mui/material';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
-
+import './widget.css'
 const TruncatedText = ({ text, maxLength }) => {
     const [isExpanded, setIsExpanded] = useState(false);
     const handleToggle = () => setIsExpanded(!isExpanded);
