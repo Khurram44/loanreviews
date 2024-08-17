@@ -109,7 +109,7 @@ const Widget = () => {
                     ))}
                     {/* Last card with image and button */}
                     <div style={{ marginRight: '15%' }}>
-                        <Card style={{ width: '90%', margin: '0 auto', textAlign: 'center', padding: '20px', minHeight: '192px' }}>
+                        <Card style={{ width: '90%', margin: '0 auto', textAlign: 'center', padding: '20px', minHeight: '200px' }}>
                             <img
                                 src="https://www.greenworldholidays.com/wp-content/uploads/2019/12/google-verified-reviews.jpg"
                                 alt="Placeholder"
