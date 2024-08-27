@@ -1,17 +1,5 @@
+
 export const cardData = [
-    {
-        "id": 1,
-        "reviewer": "Shahinshah Bashir",
-        "rating": 5,
-        "review": "I was pleasantly surprised by how simple the application process was. The mortgage application portal was user friendly and one of the best I have used. Great experience all the way through with loanshub!"
-    },
-    {
-        "id": 3,
-        "reviewer": "Arslan Irshad",
-        "rating": 5,
-        "review": "LoansHub made the whole process stress-free. The application was easy to fill out, and their customer service was the best. My one complaint would be they don’t show your loan options upfront on their application portal.",
-        "owner_response": "Thank you for choosing loansHub."
-    },
     {
         "id": 7,
         "reviewer": "Muhammad Rehman",
@@ -27,10 +15,24 @@ export const cardData = [
         "owner_response": "Thank you Sophia for choosing loansHub!"
     },
     {
-        "id": 11,
-        "reviewer": "Abraham Sargunasingh",
+        "id": 13,
+        "reviewer": "Matt Smith",
         "rating": 5,
-        "review": "The process is simple, once you submit all the required details, the loansHub manage everything for you. Especially recommend the best interest rate available in the banking sector.",
-        "owner_response": "Thank you Daniel for your review!"
-    }
+        "review": "I've worked with many brokers in the past and I cannot speak highly enough about the team at Loanshub. Nav and the team have been absolutely fantastic, assisted me with refinancing, accessing equity and helping me achieve my financial goals.",
+        "owner_response": "Thank you James for choosing loansHub!"
+    },
+    {
+        "id": 4,
+        "reviewer": "Guillermo Vercellone",
+        "rating": 5,
+        "review": "I am thoroughly impressed with the exceptional service I received from Nav. His expertise and guidance throughout the entire process was outstanding. He took the time to understand my financial goals and tailored a solution that exceeded my expectations. His communication was prompt, clear, and concise, making the whole experience seamless and stress-free. I highly recommend Nav to anyone seeking a reliable and knowledgeable finance broker. 5 stars isn't enough - I'd give them 10 stars if I could!",
+        "owner_response": "Thank you Neha for your kind words!"
+      },
+      {
+        "id": 4,
+        "reviewer": "Joshua Gillett",
+        "rating": 5,
+        "review": "We were very happy with the excellent service and communication we had whilst organising our home loan. Nav was very patient and helpful in answering all our questions and making sure we completely understood all details of the process. We are so grateful for a smooth experience and would use again!",
+        "owner_response": "Thank you for your on going support, Josh."
+      },
 ]; 
